@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: auto;
+}
+.khung{
+	width: 960px;
+	border: solid 1px white;
+}
+.nen1{
+	background: url("../imger/Capture.JPG");
+	height: 119px;
+}
+.nen2{
+	background: #FFFFFF;
+	border: solid 1px gray;
+	height: 60px;
+}
+.anh{
+	float: left;
+}
+.chu{
+	padding: 10px;
+	text-align: center;
+	color: #FF0000;
+	font-size: 40px;
+	text-shadow: 1px -1px red;
+}
+.chu2{
+	background: #FFFFFF;
+	border: solid 1px white;
+
+}
+.chu2 b{
+	padding-left: 50px;
+
+}
+.chu2 b{
+	margin-top: 40px; 
+}
+.anh2{
+	float:left;
+}
